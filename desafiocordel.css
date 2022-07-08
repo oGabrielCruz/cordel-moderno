@@ -38,12 +38,12 @@ h1{
     font-size: 46px;
     padding: 5px;
     margin: 0px;
-    background-image: url(imagens/background001.jpg);
+    background-image: url(background001.jpg);
     background-size: 100% ;
     background-attachment: fixed;
 }
 #folha{
-    background-image: url(imagens/background002.jpg);
+    background-image: url(background002.jpg);
 }
 p{
     background-color: rgba(128, 128, 128, 0.705);
