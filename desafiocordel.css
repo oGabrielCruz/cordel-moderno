@@ -41,6 +41,7 @@ h1{
     background-image: url(background001.jpg);
     background-size: 100% ;
     background-attachment: fixed;
+    box-shadow: inset 6px 6px 13px 0px black;
 }
 #folha{
     background-image: url(background002.jpg);
